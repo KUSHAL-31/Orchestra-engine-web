@@ -1,5 +1,5 @@
 export const links = {
-  github: 'https://github.com/KUSHAL-31/orchestra-engine',
+  github: 'https://github.com/KUSHAL-31',
   npm: 'https://www.npmjs.com/package/orchestra-engine',
   docs: '#',
   portfolio: 'https://kushalsoni.online',
